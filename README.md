@@ -1,7 +1,7 @@
 # 2025-1A-T02-G84-PUBLICO
 Repository for group 84 of class T02 (2025/1A)
 
-# Public Report - Empreendedorismo  
+# Public Report - Trilha Empreendedorismo  
 **Inteli - Instituto de Tecnologia e Liderança**  
 Avenida Professor Almeida Prado, 520, Butantã, São Paulo, SP  
 CEP: 05508-070  
